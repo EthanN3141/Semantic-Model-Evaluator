@@ -5,4 +5,5 @@ It allows you to find a model that works for your data see https://www.sbert.net
 
 REQUIREMENTS:
   A dataset formatable as a pandas dataframe.
+  
   a tagged dataset exported from Doccano as a jsonl file see https://github.com/doccano/doccano
